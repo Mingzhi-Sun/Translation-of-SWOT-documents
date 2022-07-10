@@ -2,27 +2,26 @@
 ## Wide-Swath Altimetric Measurement of Water  Elevation on Earth 
 
 __Lee-Lueng Fu__  
-Jet Propulsion Laboratory 
-California Institute of Technology 
+Jet Propulsion Laboratory   
+California Institute of Technology   
 
-Douglas Alsdorf 
-Ohio State University 
+__Douglas Alsdorf__   
+Ohio State University   
 
-Rosemary Morrow 
-Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS) 
-Centre National d’Etudes Spatiales (CNES) 
+__Rosemary Morrow__   
+Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS)   
+Centre National d’Etudes Spatiales (CNES)     
 
-Ernesto Rodriguez 
-Jet Propulsion Laboratory 
-California Institute of Technology 
+__Ernesto Rodriguez__   
+Jet Propulsion Laboratory   
+California Institute of Technology   
 
-Nelly Mognard 
-Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS) 
-Centre National d’Etudes Spatiales (CNES) 
+__Nelly Mognard__ 
+Laboratoire d’Etudes en Géophysique et Océanographie Spatiales (LEGOS)   
+Centre National d’Etudes Spatiales (CNES)   
 
-National Aeronautics and 
-Space Administration 
+__National Aeronautics and Space Administration__   
 
-Jet Propulsion Laboratory 
-California Institute of Technology 
-Pasadena, California
+__Jet Propulsion Laboratory__   
+__California Institute of Technology__   
+__Pasadena, California__  
