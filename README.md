@@ -27,7 +27,7 @@ __California Institute of Technology__
 __Pasadena, California__  
 
 ## 目录  
-### 致谢    
+### [致谢](https://github.com/Mingzhi-Sun/Translation-of-SWOT-documents/commit/81f0da82c6eade857d26d07d50422ebf8e822b37)     
 ### 文章的贡献  
 ### 前言  
 ### 摘要  
