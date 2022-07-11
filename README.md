@@ -29,7 +29,7 @@ __Pasadena, California__
 ## 目录  
 ### [致谢](https://github.com/Mingzhi-Sun/Translation-of-SWOT-documents/commit/81f0da82c6eade857d26d07d50422ebf8e822b37)     
 ### [文章的贡献](https://github.com/Mingzhi-Sun/Translation-of-SWOT-documents/blob/main/%E6%96%87%E7%AB%A0%E8%B4%A1%E7%8C%AE)  
-### 前言  
+### [前言](https://github.com/Mingzhi-Sun/Translation-of-SWOT-documents/blob/main/%E5%89%8D%E8%A8%80.md) 
 ### 摘要  
 ### 1 引言  
 ### 2 科学目标
